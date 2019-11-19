@@ -66,4 +66,4 @@ req("friends.get", { user_id: config.target_id, count: 5000 }, function(res) {
   setInterval(check, config.check_interval);
 });
 
-sendLog("Started stalkering vk.com/id" + config.target_id + "\nIt may takes a while, chill out\nReached 0 iteams at start is normal :)");
+sendLog("Started stalkering vk.com/id" + config.target_id + "\nIt may takes a while, chill out\nReached 0 items at start is normal :)");
