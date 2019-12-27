@@ -1,3 +1,4 @@
+Simple old style js proof of concept
 ## VkStalker
   It checks what target liked
 
